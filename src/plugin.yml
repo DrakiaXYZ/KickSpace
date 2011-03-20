@@ -1,0 +1,6 @@
+name: KickSpace
+main: net.TheDgtl.KickSpace.KickSpace
+version: 1.0
+description: Kick anybody with a space in their name
+author: Drakia
+website: http://www.thedgtl.net
